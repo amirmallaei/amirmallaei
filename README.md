@@ -37,7 +37,7 @@ I believe in continuous learning, practical experimentation, and making complex 
 
 Through **let's.py**, I explore programming concepts and share educational material focused on Python, Machine Learning, and software architecture.
 
-<p align="left">
+<p align="center">
   <a href="https://letspy.ir" target="_blank">
     <img src="https://img.shields.io/badge/Explore-letspy.ir-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
@@ -58,14 +58,14 @@ Through **let's.py**, I explore programming concepts and share educational mater
 ## <span style="color:#F472B6">🎬 Content Creation</span>
 
 I create programming-related content under the **let's.py** brand, sharing software development knowledge and learning resources across multiple platforms:
-
+<div align="center">
 | Platform | Channel / URL | Focus |
 | :--- | :--- | :--- |
 | **🌐 Website** | [letspy.ir](https://letspy.ir) | Long-form technical tutorials, roadmaps, and code articles |
 | **📱 Instagram** | [@lets.py](https://www.instagram.com/lets.py/) | Daily bite-sized algorithms, Python tips, and architecture designs |
 | **📺 YouTube** | [@letspy](https://www.youtube.com/@letspy) | In-depth video breakdowns of ML systems, vision, and full-stack code |
 | **💬 Telegram** | [@letspy](https://t.me/letspy) | Community discussions, code drops, and technical announcements |
-
+</div>
 ---
 ## <span style="color:#A78BFA">🧠 Machine Learning & Deep Learning</span>
 
