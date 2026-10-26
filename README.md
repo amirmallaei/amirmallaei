@@ -31,6 +31,42 @@ My interests range from statistical learning and robotic perception to scalable 
 
 ---
 
+## <span style="color:#34D399">📚 Learning Ecosystem</span>
+
+I believe in continuous learning, practical experimentation, and making complex technical concepts easier to understand.
+
+Through **let's.py**, I explore programming concepts and share educational material focused on Python, Machine Learning, and software architecture.
+
+<p align="left">
+  <a href="https://letspy.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-letspy.ir-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@letspy" target="_blank">
+    <img src="https://img.shields.io/badge/Learn_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/lets.py/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/letspy" target="_blank">
+    <img src="https://img.shields.io/badge/Join_on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+## <span style="color:#F472B6">🎬 Content Creation</span>
+
+I create programming-related content under the **let's.py** brand, sharing software development knowledge and learning resources across multiple platforms:
+
+| Platform | Channel / URL | Focus |
+| :--- | :--- | :--- |
+| **🌐 Website** | [letspy.ir](https://letspy.ir) | Long-form technical tutorials, roadmaps, and code articles |
+| **📱 Instagram** | [@lets.py](https://www.instagram.com/lets.py/) | Daily bite-sized algorithms, Python tips, and architecture designs |
+| **📺 YouTube** | [@letspy](https://www.youtube.com/@letspy) | In-depth video breakdowns of ML systems, vision, and full-stack code |
+| **💬 Telegram** | [@letspy](https://t.me/letspy) | Community discussions, code drops, and technical announcements |
+
+---
 ## <span style="color:#A78BFA">🧠 Machine Learning & Deep Learning</span>
 
 <p>
@@ -158,42 +194,6 @@ A machine learning implementation exploring feature dimensionality reduction and
 
 ---
 
-## <span style="color:#34D399">📚 Learning Ecosystem</span>
-
-I believe in continuous learning, practical experimentation, and making complex technical concepts easier to understand.
-
-Through **let's.py**, I explore programming concepts and share educational material focused on Python, Machine Learning, and software architecture.
-
-<p align="left">
-  <a href="https://letspy.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Explore-letspy.ir-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@letspy" target="_blank">
-    <img src="https://img.shields.io/badge/Learn_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/lets.py/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/letspy" target="_blank">
-    <img src="https://img.shields.io/badge/Join_on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
-## <span style="color:#F472B6">🎬 Content Creation</span>
-
-I create programming-related content under the **let's.py** brand, sharing software development knowledge and learning resources across multiple platforms:
-
-| Platform | Channel / URL | Focus |
-| :--- | :--- | :--- |
-| **🌐 Website** | [letspy.ir](https://letspy.ir) | Long-form technical tutorials, roadmaps, and code articles |
-| **📱 Instagram** | [@lets.py](https://www.instagram.com/lets.py/) | Daily bite-sized algorithms, Python tips, and architecture designs |
-| **📺 YouTube** | [@letspy](https://www.youtube.com/@letspy) | In-depth video breakdowns of ML systems, vision, and full-stack code |
-| **💬 Telegram** | [@letspy](https://t.me/letspy) | Community discussions, code drops, and technical announcements |
-
----
 
 ## <span style="color:#FBBF24">🤝 Let's Connect</span>
 
