@@ -31,7 +31,7 @@ My interests range from statistical learning and robotic perception to scalable 
 
 ---
 
-## <span style="color:#34D399l">📚 Learning Ecosystem</span>
+## <span style="color:#34D399l">📚 Learning Ecosystem & Content Creation</span>
 
 I believe in continuous learning, practical experimentation, and making complex technical concepts easier to understand.
 
@@ -55,15 +55,6 @@ Through **let's.py**, I explore programming concepts and share educational mater
   </a>
 </p>
 
-## <span style="color:#F472B6">🎬 Content Creation</span>
-
-I create programming-related content under the **let's.py** brand, sharing software development knowledge and learning resources across multiple platforms:
-| Platform | Channel / URL | Focus |
-| :--- | :--- | :--- |
-| **🌐 Website** | [letspy.ir](https://letspy.ir) | Long-form technical tutorials, roadmaps, and code articles |
-| **📱 Instagram** | [@lets.py](https://www.instagram.com/lets.py/) | Daily bite-sized algorithms, Python tips, and architecture designs |
-| **📺 YouTube** | [@letspy](https://www.youtube.com/@letspy) | In-depth video breakdowns of ML systems, vision, and full-stack code |
-| **💬 Telegram** | [@letspy](https://t.me/letspy) | Community discussions, code drops, and technical announcements |
 ---
 
 ## <span style="color:#A78BFA">🧠 Machine Learning & Deep Learning</span>
@@ -191,30 +182,7 @@ A machine learning implementation exploring feature dimensionality reduction and
 - **Graduated first in class** (Rank 1)
 - Academic focus on intelligent systems, autonomous robotics, perception, sensor fusion, and modern control theory
 
----
 
-
-## <span style="color:#FBBF24">🤝 Let's Connect</span>
-
-I'm interested in collaborating on projects and research involving machine learning, deep learning, computer vision, robotics, and software engineering.
-
-<p align="left">
-  <a href="https://github.com/amirmallaei">
-    <img src="https://img.shields.io/badge/GitHub-amirmallaei-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://letspy.ir">
-    <img src="https://img.shields.io/badge/Website-letspy.ir-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.instagram.com/lets.py/">
-    <img src="https://img.shields.io/badge/Instagram-lets.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@letspy">
-    <img src="https://img.shields.io/badge/YouTube-letspy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://t.me/letspy">
-    <img src="https://img.shields.io/badge/Telegram-letspy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
 
 ---
 
