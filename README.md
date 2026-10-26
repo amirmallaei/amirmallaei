@@ -6,7 +6,7 @@
 
 *Building intelligent systems, efficient algorithms, and production-ready software.*
 
-[![Website](https://img.shields.io/badge/Website-letspy.ir-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://letspy.ir)
+[![Website](https://img.shields.io/badge/Website-amirmallaei.cv-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amirmallaei.cv)
 [![GitHub](https://img.shields.io/badge/GitHub-amirmallaei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirmallaei)
 [![Instagram](https://img.shields.io/badge/Instagram-lets.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lets.py/)
 [![YouTube](https://img.shields.io/badge/YouTube-letspy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@letspy)
@@ -157,20 +157,39 @@ Through **let's.py**, I explore programming concepts and share educational mater
 | **CI/CD Automation** | Automated build, test, and deployment workflows with GitHub Actions |
 
 ---
-
 ## <span style="color:#A78BFA">🚀 Featured Projects</span>
 
-### [ROS Human Follower](https://github.com/amirmallaei/ROS-Human-Follower-YOLO-NAS-DeepSort-ReID)
-A robotics system combining human detection, tracking, and deep re-identification to enable autonomous human-following behaviors under dynamic occlusions.  
-`Python` `ROS` `YOLO-NAS` `DeepSORT` `Computer Vision` `Target Re-ID`
-
-### [AI Gesture Virtual Mouse](https://github.com/amirmallaei/AI-Gesture-Virtual-Mouse)
-A computer vision application that leverages real-time hand landmark classification to navigate and control mouse interactions without physical contact.  
-`Python` `Computer Vision` `MediaPipe` `Gesture Recognition` `PyAutoGUI`
-
-### [Facial Recognition with SVM](https://github.com/amirmallaei/Face-Recognition-Using-Support-Vector-Machines-SVM-)
-A machine learning implementation exploring feature dimensionality reduction and Support Vector Machines to perform facial recognition with optimal margin separation.  
-`Python` `Machine Learning` `SVM` `Scikit-Learn` `Face Recognition`
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/amirmallaei/ROS-Human-Follower-YOLO-NAS-DeepSort-ReID">🤖 ROS Human Follower</a></h3>
+      <p align="center">A robotics system combining human detection, tracking, and deep re-identification for autonomous human following under dynamic occlusions.</p>
+      <p align="center">
+        <code>Python</code> <code>ROS</code><br>
+        <code>YOLO-NAS</code> <code>DeepSORT</code><br>
+        <code>Computer Vision</code> <code>Target Re-ID</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/amirmallaei/AI-Gesture-Virtual-Mouse">🖐️ AI Gesture Virtual Mouse</a></h3>
+      <p align="center">A computer vision application using real-time hand landmark classification to control mouse interactions without physical contact.</p>
+      <p align="center">
+        <code>Python</code> <code>MediaPipe</code><br>
+        <code>Computer Vision</code><br>
+        <code>Gesture Recognition</code> <code>PyAutoGUI</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/amirmallaei/Face-Recognition-Using-Support-Vector-Machines-SVM-">🧠 Facial Recognition with SVM</a></h3>
+      <p align="center">A machine learning project exploring feature dimensionality reduction and Support Vector Machines for facial recognition.</p>
+      <p align="center">
+        <code>Python</code> <code>SVM</code><br>
+        <code>Machine Learning</code><br>
+        <code>Scikit-Learn</code> <code>Face Recognition</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
