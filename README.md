@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="backgorund-color:#4a4a4a">
 
 # Amir Mallaei
 
@@ -31,7 +31,7 @@ My interests range from statistical learning and robotic perception to scalable 
 
 ---
 
-## <span style="color:#34D399">📚 Learning Ecosystem</span>
+## <span style="color:#34D399l">📚 Learning Ecosystem</span>
 
 I believe in continuous learning, practical experimentation, and making complex technical concepts easier to understand.
 
@@ -58,15 +58,14 @@ Through **let's.py**, I explore programming concepts and share educational mater
 ## <span style="color:#F472B6">🎬 Content Creation</span>
 
 I create programming-related content under the **let's.py** brand, sharing software development knowledge and learning resources across multiple platforms:
-<p align="center">
 | Platform | Channel / URL | Focus |
 | :--- | :--- | :--- |
 | **🌐 Website** | [letspy.ir](https://letspy.ir) | Long-form technical tutorials, roadmaps, and code articles |
 | **📱 Instagram** | [@lets.py](https://www.instagram.com/lets.py/) | Daily bite-sized algorithms, Python tips, and architecture designs |
 | **📺 YouTube** | [@letspy](https://www.youtube.com/@letspy) | In-depth video breakdowns of ML systems, vision, and full-stack code |
 | **💬 Telegram** | [@letspy](https://t.me/letspy) | Community discussions, code drops, and technical announcements |
-</p>
 ---
+
 ## <span style="color:#A78BFA">🧠 Machine Learning & Deep Learning</span>
 
 <p>
