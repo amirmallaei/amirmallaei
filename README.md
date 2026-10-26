@@ -6,11 +6,11 @@
 
 *Building intelligent systems, efficient algorithms, and production-ready software.*
 
-[![Website](https://img.shields.io/badge/Website-amirmallaei.cv-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amirmallaei.cv)
-[![GitHub](https://img.shields.io/badge/GitHub-amirmallaei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirmallaei)
-[![Instagram](https://img.shields.io/badge/Instagram-lets.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lets.py/)
-[![YouTube](https://img.shields.io/badge/YouTube-letspy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@letspy)
-[![Telegram](https://img.shields.io/badge/Telegram-letspy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/letspy)
+[![Website](https://img.shields.io/badge/Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amirmallaei.cv)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirmallaei)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lets.py/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@letspy)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/letspy)
 
 </div>
 
