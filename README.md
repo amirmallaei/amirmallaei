@@ -58,14 +58,14 @@ Through **let's.py**, I explore programming concepts and share educational mater
 ## <span style="color:#F472B6">🎬 Content Creation</span>
 
 I create programming-related content under the **let's.py** brand, sharing software development knowledge and learning resources across multiple platforms:
-<div align="center">
+<p align="center">
 | Platform | Channel / URL | Focus |
 | :--- | :--- | :--- |
 | **🌐 Website** | [letspy.ir](https://letspy.ir) | Long-form technical tutorials, roadmaps, and code articles |
 | **📱 Instagram** | [@lets.py](https://www.instagram.com/lets.py/) | Daily bite-sized algorithms, Python tips, and architecture designs |
 | **📺 YouTube** | [@letspy](https://www.youtube.com/@letspy) | In-depth video breakdowns of ML systems, vision, and full-stack code |
 | **💬 Telegram** | [@letspy](https://t.me/letspy) | Community discussions, code drops, and technical announcements |
-</div>
+</p>
 ---
 ## <span style="color:#A78BFA">🧠 Machine Learning & Deep Learning</span>
 
